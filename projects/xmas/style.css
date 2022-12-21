@@ -54,7 +54,7 @@ body {
 .content a:hover {
     padding-bottom: 1px;
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 800px){
     .content {
         font-size: 2.5em;
     }
