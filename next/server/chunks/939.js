@@ -655,7 +655,7 @@ module.exports = JSON.parse('{"xs":{"C":"ebalza_","b":"balzae"},"rS":"gruvboxdar
 /***/ 4147:
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"i8":"3.0","Vl":"MIT","v":{"u2":"Emanuele Balzaretti"},"cj":{"H":"https://github.com/balzae/ebalza"},"HO":{"@m4tt72/matomo-tracker-react":"^0.6.2","axios":"^1.3.2","cowsay-browser":"^1.1.8","date-fns":"^2.28.0","next":"^13.1.6","react":"^18.1.0","react-dom":"^18.1.0","react-icons":"^4.7.1"},"v6":{"@types/node":"^18.11.19","@types/react":"^18.0.27","@typescript-eslint/eslint-plugin":"^5.50.0","@typescript-eslint/parser":"^5.50.0","autoprefixer":"^10.4.13","eslint":"8.33.0","eslint-config-next":"^13.1.6","eslint-plugin-next":"^0.0.0","eslint-plugin-prettier":"^4.2.1","eslint-plugin-react":"^7.32.2","husky":"^8.0.3","postcss":"^8.4.21","prettier":"^2.8.3","tailwindcss":"^3.2.4","typescript":"^4.9.5"}}');
+module.exports = JSON.parse('{"i8":"3.1","Vl":"MIT","v":{"u2":"Emanuele Balzaretti"},"cj":{"H":"https://github.com/balzae/ebalza"},"HO":{"@m4tt72/matomo-tracker-react":"^0.6.2","axios":"^1.3.2","cowsay-browser":"^1.1.8","date-fns":"^2.28.0","next":"^13.1.6","react":"^18.1.0","react-dom":"^18.1.0","react-icons":"^4.7.1"},"v6":{"@types/node":"^18.11.19","@types/react":"^18.0.27","@typescript-eslint/eslint-plugin":"^5.50.0","@typescript-eslint/parser":"^5.50.0","autoprefixer":"^10.4.13","eslint":"8.33.0","eslint-config-next":"^13.1.6","eslint-plugin-next":"^0.0.0","eslint-plugin-prettier":"^4.2.1","eslint-plugin-react":"^7.32.2","husky":"^8.0.3","postcss":"^8.4.21","prettier":"^2.8.3","tailwindcss":"^3.2.4","typescript":"^4.9.5"}}');
 
 /***/ }),
 
