@@ -446,12 +446,12 @@ const repo = async (args)=>{
 };
 const banner = (args)=>{
     return `
-███████╗██████╗  █████╗ ██╗     ███████╗ █████╗ 
+███████╗██████╗  █████╗ ██╗     ████<a href="https://www.youtube.com/watch?v=OjNpRbNdR7E" target="_blank">█</a>██╗ █████╗ 
 ██╔════╝██╔══██╗██╔══██╗██║     ╚══███╔╝██╔══██╗
 █████╗  ██████╔╝███████║██║       ███╔╝ ███████║
 ██╔══╝  ██╔══██╗██╔══██║██║      ███╔╝  ██╔══██║
 ███████╗██████╔╝██║  ██║███████╗███████╗██║  ██║
-╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ <a href="https://www.youtube.com/watch?v=OjNpRbNdR7E" target="_blank">v</a><a href="#" target="_blank">${_package_json__WEBPACK_IMPORTED_MODULE_0__/* .version */ .i8}</a>
+╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ v${_package_json__WEBPACK_IMPORTED_MODULE_0__/* .version */ .i8}
 
 Type 'help' to see list of available commands.
 
